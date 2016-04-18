@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+  <head> </head>
+    <link rel="stylesheet" href="style.css">
+    <script>
+    window.addEventListener ('load', myFirst, false);
+    function myFirst (){
+    window.alert("Hello World using an event Listener");
+    document.getElementById ("demo").innerHTML = "Hello World";
+    }
+     window.alert("Hello World");
+    </script>
+    
+ 
+
+  <body>
+    <h1></h1>
+  </body>
+
+</html>
